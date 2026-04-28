@@ -1,3 +1,3 @@
-# Veridocs
+# SEDAS – System of Electronic Document Management and Signature
 
-Veridocs is a system designed for document management and digital signature
+Sedas is a system designed for document management and digital signature
